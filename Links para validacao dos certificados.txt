@@ -1,0 +1,24 @@
+Links para a validação dos certificados.
+
+INTRODUÇÃO AOS TESTES DE API REST
+
+http://165.227.93.41/cgitar/certificado.php?hash=64497289f4dd0c110abb364c0df48aa8
+
+O DIA A DIA DE UM QA: A PRÁTICA DE TESTES MANUAIS FUNCIONAIS
+
+https://hermes.digitalinnovation.one/certificates/36B49FCA.pdf
+
+
+LÓGICA DE PROGRAMAÇÃO ESSENCIAL
+https://www.dio.me/certificate/5CFB2FFD
+
+METODOLOGIAS ÁGEIS E CICLO DE DESENVOLVIMENTO DE SOFTWARE
+https://www.dio.me/certificate/C1F08E59/share
+
+GIT E GITHUB
+https://www.dio.me/certificate/4187759C/share
+
+TESTES DE SOFTWARE - SEJA UM EXPERT E IMPULSIONE SUA CARREIRA
+https://www.udemy.com/certificate/UC-7588f942-5c5e-44a8-a438-12ab87392859/
+
+
